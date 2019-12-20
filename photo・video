@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Photo・Video｜早稲田ビートルマニア北京支部</title>
+<link href="https://fonts.googleapis.com/css?family=Bitter:400,700&display=swap" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+</head>
+<body id="photo・video">
+  
+  <!-- header始まり -->
+  <header>
+    <div class="logo">
+        <a href="index.html"><img src="images/waseda-beatle-logo.png" alt="WASEDA BEATLEMANIA BEIJIN"></a>
+    </div>
+    <nav>
+      <ul class="global-nav">
+        <li><a href="about.html">About</a></li>
+        <li><a href="photo・video.html">photo・video</a></li>
+        <li><a href="article.html">Article</a></li>
+        <li><a href="link.html">Link</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!--  header終わり -->
+  
+  <!--  wrap始まり -->
+  <div id="wrap" class="clearfix">
+    <div class="content">
+      <div class="main">
+        <h1>Photo・Video</h1>
+        <p>活動の様子を写真と映像で掲載しています。</p>
+        <section>
+          <h2><a href="photograph.html"><img src="images/photo.jpg" alt="PHOTOGRAPH" class="photo-image"></a></h2>
+          <p>早稲田ビートルマニア北京支部は、様々な場所で活動しています。写真を通して皆様に活動の一端をお見せできれば幸いです。<a href="photograph.html">詳しくみる ≫</a></p>
+        </section>
+        <section>
+          <h2><a href="video.html"><img src="images/video.jpg" alt="VIDEO" class="video-image"></a></h2>
+          <p>我々は演奏活動を活動の主体としています。ライブの様子や、代表に密着したドキュメンタリーの様子を掲載しています。<a href="photograph.html">詳しくみる ≫</a></p>
+        </section>
+      </div>
+      <aside class="sidebar">
+        <section>
+          <h2>Photograph</h2>
+          <ul>
+            <li><a href="photograph.html#city">日常</a></li>
+            <li><a href="photograph.html#beach">ライブ</a></li>
+            <li><a href="photograph.html#forest">Special</a></li>
+          </ul>
+        </section>
+        <section>
+          <h2>Video</h2>
+          <ul>
+            <li><a href="video.html#movie">Live</a></li>
+            <li><a href="video.html#short">Documentary</a></li>
+          </ul>
+        </section>
+      </aside>
+    </div>
+  </div>
+  <!--  wrap終わり-->
+  
+  <!-- footer終わり  -->
+  <footer>
+    <small>©2019 Waseda Beatlemania All Rights Reserved.</small>
+  </footer>
+  <!-- footer終わり -->
+  
+</body>
+</html>
