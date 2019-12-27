@@ -297,9 +297,15 @@ figure {
   color: black;
 }
 
-#index .sub-main {
-  width: 940px;
+#index .width960 {
+  width: 960px;
   margin: 0 auto;
+}
+
+#index .sub-main {
+  width: 500px;
+  margin: 0 10px;
+  float: left;
 }
 
 #article .article-box {
@@ -408,10 +414,10 @@ figure {
 	font-size: 17px;
 }
 
-
-
-
-
+#index section.twitter {
+  width: 350px;
+  float: right;
+}
 
 
 
