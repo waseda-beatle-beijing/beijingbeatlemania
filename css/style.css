@@ -130,13 +130,6 @@ footer small {
   color: black;
 }
 
-#index footer {
-  width: 960px;
-  margin: 150px auto 0 auto;
-  text-align: left;
-  background-color: transparent;
-}
-
 #index {
   background-image: url(../images/325763.jpg);
   background-repeat: no-repeat;
@@ -293,9 +286,127 @@ figure {
   margin-left: 20px;
 }
 
+#index .sub-content {
+  clear: both;
+  background-color: #ffffff;
+  margin-top: 100px;
+  padding: 35px 0;
+}
 
+#index .sub-content p {
+  color: black;
+}
 
+#index .sub-main {
+  width: 940px;
+  margin: 0 auto;
+}
 
+#article .article-box {
+  height: 250px;
+  margin-top: 20px;
+  float: left;
+}
+
+#article .article-box figure {
+  float: left;
+  height: 220px;
+  width: 220px;
+  margin: 0;
+}
+
+#article .article-box figure img {
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+}
+
+#article .article-info {
+  display: inline-block;
+  float: right;
+  width: 480px;
+}
+
+#article .article-info h2 {
+  margin-bottom: 1.2rem;
+}
+
+#article .article-category {
+  background-color: black;
+	border-radius: 15px;
+	color: white;
+	padding: 5px 8px 5px 8px;
+}
+
+#article .article-date {
+	color: #8B8B8B;
+	margin-left: 1rem;
+}
+
+#article .article-box p {
+  color: #8B8B8B;
+  margin-top: 10px;
+}
+
+#content-sub .widget {	
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+	background-color: #fff;
+	border-radius: 5px;
+	margin-top: 30px;
+	min-height: 300px;
+	padding-left: 18px;
+	padding-right: 18px;
+}
+
+#article .article-main {
+  width: 700px;
+  margin: 0 10px;
+  float: ;
+}
+
+#content-sub {
+  float: right;
+  width: 200px;
+  margin: 0 10px 0 30px;
+}
+
+#content-sub .widget-title {
+	border-bottom: 1px solid black;
+	display: block;
+	font-size: 25px;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 100%;
+}
+
+#content-sub .widget ul {
+	list-style: none;
+}
+
+#content-sub .widget ul li {
+	border-bottom: 1px dashed #B5B5B5;
+	color: #686868;
+	font-size: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;				
+}
+
+#content-sub .widget ul li span {
+	background-color: #FAFAFA;
+	border: 1px solid #686868;
+	border-radius: 20px;
+	color: #090909;
+	padding: 1px 8px 1px 8px;
+}
+
+#content-sub .widget ul li:last-child {
+	border-bottom: none;
+}
+
+#content-sub .widget p {
+	font-size: 17px;
+}
 
 
 
